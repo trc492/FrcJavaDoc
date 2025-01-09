@@ -1,0 +1,10 @@
+frclib.archive
+frclib.dataprocessor
+frclib.drivebase
+frclib.driverio
+frclib.motor
+frclib.output
+frclib.robotcore
+frclib.sensor
+frclib.subsystem
+frclib.vision
