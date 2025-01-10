@@ -8,3 +8,16 @@ frclib.robotcore
 frclib.sensor
 frclib.subsystem
 frclib.vision
+trclib.archive
+trclib.command
+trclib.dataprocessor
+trclib.drivebase
+trclib.driverio
+trclib.motor
+trclib.output
+trclib.pathdrive
+trclib.robotcore
+trclib.sensor
+trclib.subsystem
+trclib.timer
+trclib.vision
